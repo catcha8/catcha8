@@ -12,6 +12,5 @@
 <div>
 <img src="https://profile-counter.glitch.me/catcha8/count.svg"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=catcha8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=catcha8&layout=compact&langs_count=8&theme=react&locale=fr">
-<img align="center" src="https://camo.githubusercontent.com/37a5c285b388157263dda147b89c8f5d38806ab09ad2641a4dd61886b5d3fa89/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d48696465616b6941747375796f267468656d653d67727576626f78" data-canonical-src="https://github-profile-trophy.vercel.app/?username=catcha8&amp;theme=gruvbox" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcha8&theme=blue-green">
 </div>
