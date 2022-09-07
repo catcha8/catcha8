@@ -5,7 +5,11 @@
  - Discord -> <a href="https://discord.gg/catcha">discord.gg/catcha</a>
  - Youtube -> <a href="https://www.youtube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A">catcha80</a>
  - Tiktok  -> Banned :)
- - Twitch  -> <a href="https://twitch.tv/catcha80">catcha80</a> 
+ - Twitch  -> <a href="https://twitch.tv/catcha80">catcha80</a>
+
+<a href="https://twitch.tv/catcha80"><img src="https://img.shields.io/badge/twitch-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://instagram/catcha80_"><img src="https://img.shields.io/badge/instagram-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://YouTube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 
 ## Stats
 
