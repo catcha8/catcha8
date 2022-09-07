@@ -13,7 +13,7 @@
 
 <div>
 <img src="https://profile-counter.glitch.me/catcha8/count.svg"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=catcha8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcha8&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcha8&theme=blue-green"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=catcha8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=catcha8&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakNum=000000&background=C1D6DD&stroke=0105DD&border=000000&ring=0A0DDD&fire=FFFFFF&sideNums=A781DD&currStreakLabel=50D2DD&sideLabels=5983DD&dates=490D0D">
 </div>
