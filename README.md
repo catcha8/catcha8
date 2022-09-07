@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=4322F7&amp;background=3000FF08&amp;center=true&amp;vCenter=true&amp;lines=Join+discord.gg/catcha;If+you+like+my+content+sub+to+me<3e" style="max-width: 100%;">
-
  - Discord -> <a href="https://discord.gg/catcha">discord.gg/catcha</a>
  - Youtube -> <a href="https://www.youtube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A">catcha80</a>
  - Tiktok  -> <a href="https://www.tiktok.com/@nsl.dev">@nsl.dev</a> 
