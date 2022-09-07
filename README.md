@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Me ❄️
+## Me 👋
 
 <a href="https://discord.gg/catcha"><img src="https://readme-typing-svg.herokuapp.com?font=Courrier&size=25&duration=2500&pause=1000&color=000000&background=FFFFFFFF&height=40&lines=discord.gg%2Fcatcha;twitch.tv%2Fcatcha80;Youtube%3A+catcha80;Star+my+content+%3C3" alt="Typing SVG" /></a>
 
