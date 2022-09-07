@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/catcha"><img src="https://readme-typing-svg.herokuapp.com?font=Courrier&size=25&duration=2500&pause=1000&color=000000&background=FFFFFFFF&height=40&lines=discord.gg%2Fcatcha;twitch.tv%2Fcatcha80;Youtube%3A+catcha80;Star+my+content+%3C3" alt="Typing SVG" /></a>
 
-<img src="https://img.shields.io/discord/951183240180412516.svg?style=for-the-badge">
+<img src="https://img.shields.io/discord/951183240180412516.svg">
 
 <a href="https://discord.gg/catcha"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 <a href="https://twitch.tv/catcha80"><img src="https://img.shields.io/badge/twitch-violet.svg?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a> 
