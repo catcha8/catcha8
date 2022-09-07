@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/catcha"><img src="https://readme-typing-svg.herokuapp.com?font=Courrier&size=25&duration=2500&pause=1000&color=000000&background=FFFFFFFF&height=40&lines=discord.gg%2Fcatcha;twitch.tv%2Fcatcha80;Youtube%3A+catcha80;Star+my+content+%3C3" alt="Typing SVG" /></a>
 
-<img src="https://camo.githubusercontent.com/63cea88371014732c4acc888e2b0d4a207f202997fad756600760b2dca4405cf/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3935313138333234303138303431323531362e7376673f7374796c653d666c6174266c6162656c3d4a6f696e253230436f6d6d756e69747926636f6c6f723d373238394441" data-src= "https://img.shields.io/discord/951183240180412516.svg?style=flat&amp;label=Join%20Community&amp;color=7289DA" style="max-width: 100%;">
+<img src="https://img.shields.io/discord/951183240180412516.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" style="max-width: 100%;">
 
 <a href="https://discord.gg/catcha"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 <a href="https://twitch.tv/catcha80"><img src="https://img.shields.io/badge/twitch-violet.svg?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a> 
