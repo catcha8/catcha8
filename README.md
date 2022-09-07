@@ -6,7 +6,7 @@
 
  - Discord -> <a href="https://discord.gg/catcha">discord.gg/catcha</a>
  - Youtube -> <a href="https://www.youtube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A">catcha80</a>
- - Tiktok  -> <a href="https://www.tiktok.com/@nsl.dev">@nsl.dev</a> 
+ - Tiktok  -> Banned :)
  - Twitch  -> <a href="https://twitch.tv/catcha80">catcha80</a> 
 
 ## Stats
