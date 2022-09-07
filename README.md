@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://discord.gg/catcha"><img src="https://readme-typing-svg.herokuapp.com?font=Courrier&size=25&duration=2500&pause=1500&color=F7F7F7&background=000000&multiline=true&height=40&lines=discord.gg%2Fcatcha;twitch.tv%2Fcatcha80;youtube%3A+catcha80;Star+my+content+%3C3" alt="Typing SVG" /></a>
+<a href="https://discord.gg/catcha"><img src="https://readme-typing-svg.herokuapp.com?font=Courrier&size=25&duration=2500&pause=1500&color=F7F7F7&background=000000&multiline=true&height=40&lines=discord.gg%2Fcatcha;twitch.tv%2Fcatcha80;youtube%3A+catcha80;Star+my+content+%3C3" vCenter=true alt="Typing SVG" /></a>
 
  - Discord -> <a href="https://discord.gg/catcha">discord.gg/catcha</a>
  - Youtube -> <a href="https://www.youtube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A">catcha80</a>
