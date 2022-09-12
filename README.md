@@ -14,10 +14,10 @@
 
 <h1 align=center><b>Community</b></h1>
 
-<p align=center ><img src="https://img.shields.io/discord/951183240180412516.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" style="max-width: 100%;"></p>
+<p align=center><img src="https://img.shields.io/discord/951183240180412516.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" style="max-width: 100%;"></p>
 
 <h1 align=center><b>Github visitors</b></h1>
-<p><b>Profile views: </b><img src="https://profile-counter.glitch.me/catcha8/count.svg"></p><br>
+<p align=center><img src="https://profile-counter.glitch.me/catcha8/count.svg"></p><br>
 <!--<img src="https://komarev.com/ghpvc/?username=catcha8"><br>-->
   
 <div align=center>
