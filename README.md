@@ -10,12 +10,12 @@
 <a href="https://youTube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 
 <hr>
-<h2 align=center><b>Community</b></h2>
+<h1 align=center><b>Community</b></h2>
 
 <img align=center src="https://img.shields.io/discord/951183240180412516.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" style="max-width: 100%;">
 
 <hr>
-<h2 align=center><b>Stats</b></h2>
+<h1 align=center><b>Stats</b></h2>
 <div>
 <!--<img src="https://komarev.com/ghpvc/?username=catcha8"><br>-->
 <p><b>Profile views: </b><img src="https://profile-counter.glitch.me/catcha8/count.svg"></p><br>
