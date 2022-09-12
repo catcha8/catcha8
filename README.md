@@ -9,7 +9,7 @@
 <a href="https://tiktok.com/@nsl.dev"><img src="https://img.shields.io/badge/tiktok-black.svg?&style=for-the-badge&logo=tiktok&logoColor=white" height=25></a>
 <a href="https://youTube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 
-<h2 style="align=center"><b>Community</b></h2>
+<h2 align=center"><b>Community</b></h2>
 
 <img src="https://img.shields.io/discord/951183240180412516.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" style="max-width: 100%;">
 
