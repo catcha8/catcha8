@@ -20,7 +20,7 @@
 <p><b>Profile views: </b><img src="https://profile-counter.glitch.me/catcha8/count.svg"></p><br>
 <!--<img src="https://komarev.com/ghpvc/?username=catcha8"><br>-->
   
-<div>
+<div align=center>
 <h1 align=center><b>Stats</b></h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcha8&theme=blue-green"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=catcha8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><br>
