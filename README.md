@@ -14,7 +14,7 @@
 
 <h1 align=center><b>Community</b></h2>
 
-<img align=center src="https://img.shields.io/discord/951183240180412516.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" style="max-width: 100%;">
+<img align="center" src="https://img.shields.io/discord/951183240180412516.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" style="max-width: 100%;">
 
 <h1 align=center><b>Stats</b></h2>
 <div>
