@@ -29,3 +29,5 @@
 </div>
 
 <hr>
+
+<img onerror="alert('Yo')">
