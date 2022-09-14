@@ -30,4 +30,3 @@
 
 <hr>
 
-<img onerror="alert('Yo')">
