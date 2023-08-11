@@ -3,7 +3,7 @@
 ## catcha8 👋
 
 
-<a align=center href="https://discord.com/invite/hktVzrff54"><img src="https://readme-typing-svg.herokuapp.com?font=Courrier&size=25&duration=2500&pause=1000&color=000000&background=FFFFFFFF&height=40&lines=discord.gg%2Fcatcha;twitch.tv%2Fcatcha80;Youtube%3A+catcha80;Star+my+content+%3C3"/></a>
+<a align=center href="https://discord.com/invite/hktVzrff54"><img src="https://readme-typing-svg.herokuapp.com?font=Courrier&size=25&duration=2500&pause=1000&color=000000&background=FFFFFFFF&height=40&lines=discord.gg%2FhktVzrff54;twitch.tv%2Fcatcha800;Youtube%3A+catcha80;Star+my+content+%3C3"/></a>
 
 <div align=center>
 <a href="https://discord.com/invite/hktVzrff54"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
