@@ -17,7 +17,9 @@
 <div>
 <h1><b>Me</b></h1>
 <pre>
-  <b style="font-size: 16">Self-Taugth reverse engineer</b>
+  <b>Specialities:</b>
+  --> Self-Taugth reverse engineer
+  --> Web / App maker
 
   
   <b>Languages:</b> 
