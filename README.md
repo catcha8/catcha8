@@ -18,27 +18,28 @@
 <h1><b>Me</b></h1>
 <pre>
   <b style="font-size: 16">Self-Taugth reverse engineer</b>
+
   
   <b>Languages:</b> 
-    - Python
-    - JS 
-    - C#
+    --> Python
+    --> JS 
+    --> C#
   
   <b>Learning:</b>  
-    - Golang
-    - C
-    - C++ 
-    - asm
+    --> Golang
+    --> C
+    --> C++ 
+    --> asm
 
 <b>Current projects:</b> 
-  - Tiktok full API
-  - Kasada.io reverse engineering
-  - Hcaptcha.com reverse engineering
-
-  - Maybe Funcaptcha soon... 
+  --> Tiktok full API
+  --> Kasada.io reverse engineering
+  --> Hcaptcha.com reverse engineering
+  
+  --> Maybe Funcaptcha soon... 
 
 <b>Contact:</b> 
-  - Discord: <a href="https://discord.com/invite/hktVzrff54">catcha80</a> 
+  --> Discord: <a href="https://discord.com/invite/hktVzrff54">catcha80</a> 
 
 </pre>
 </div>
