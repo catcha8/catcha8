@@ -17,11 +17,13 @@
 <div>
 <h1><b>Me</b></h1>
 <pre>
+
+
+
   <b>Specialities:</b>
   --> Self-Taugth reverse engineer
   --> Web / App maker
 
-  
   <b>Languages:</b> 
     --> Python
     --> JS 
