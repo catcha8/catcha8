@@ -1,5 +1,5 @@
 ## catcha8 👋
-<div style="background-color=#444444">
+<div>
 <div>
 <pre>
 
