@@ -19,10 +19,13 @@
     --> C
     --> C++ 
     --> asm
-
+    
 <b>Current projects:</b> 
-  --> Tiktok full API
   --> Kasada.io reverse engineering
+
+<b>Past projects:</b> 
+  --> Tiktok full API
+  
   --> Hcaptcha.com reverse engineering
   
   --> Maybe Funcaptcha soon... 
