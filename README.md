@@ -21,10 +21,11 @@
     --> asm
     
 <b>Current projects:</b> 
-  --> Kasada.io reverse engineering
+  --> Recaptcha reverse engineering
 
 <b>Past projects:</b> 
   --> Tiktok full API
+  --> Kasada.io reverse engineering
   
   --> Hcaptcha.com reverse engineering
   
