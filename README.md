@@ -26,10 +26,8 @@
 <b>Past projects:</b> 
   --> Tiktok full API
   --> Kasada.io reverse engineering
-  
-  --> Hcaptcha.com reverse engineering
-  
-  --> Maybe Funcaptcha soon... 
+  --> Hcaptcha solver
+  --> Funcaptcha solver
 
 <b>Contact:</b> 
   --> Discord: <a href="https://discord.com/invite/hktVzrff54">catcha80</a> 
