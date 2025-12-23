@@ -21,8 +21,8 @@
     --> asm
     
 <b>Current projects:</b> 
-  --> Cloudflare Turnstile Solver (in progress, dm me for more info)
-  --> [Recaptcha](https://www.google.com/recaptcha/about/) reverse engineering (almost done)
+  --> Cloudflare Turnstile Solver (in progress, dm me for more info) (requests based)
+  --> [Recaptcha](https://www.google.com/recaptcha/about/) reverse engineering (almost done) (requests based)
 
 <b>Past projects:</b> 
   --> Tiktok full API
