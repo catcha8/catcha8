@@ -22,7 +22,7 @@
     --> asm
     
 <b>Current projects:</b> 
-  --> Cloudflare Turnstile & Challenge Solver (requests based) [https://nslsolver.com](https://nslsolver.com)
+  --> Cloudflare Turnstile, Challenge & Kasada Solver (requests based) [https://nslsolver.com](https://nslsolver.com)
   --> Recaptcha reverse engineering (almost done) (requests based)
 
 <b>Past projects:</b> 
