@@ -32,7 +32,7 @@
   --> Funcaptcha solver
 
 <b>Contact:</b> 
-  --> Discord: <a href="https://discord.com/invite/nsl-solver">catcha800</a> 
+  --> Discord: <a href="https://discord.com/invite/s2ZxG3sqdM">.catcha80</a> 
 </pre>
 </div>
 <div>
