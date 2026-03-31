@@ -32,7 +32,7 @@
   --> Funcaptcha solver
 
 <b>Contact:</b> 
-  --> Discord: <a href="https://discord.com/invite/s2ZxG3sqdM">.catcha80</a> 
+  --> Discord: [https://discord.gg/A6HuxJamsd](https://discord.gg/A6HuxJamsd)
 </pre>
 </div>
 <div>
